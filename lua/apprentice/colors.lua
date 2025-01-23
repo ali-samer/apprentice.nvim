@@ -39,6 +39,7 @@ return {
 	faded_aqua = hsl("#2AACB8"), -- Turquoise
 	faded_orange = hsl("#CF8E6D"), -- Sandy Brown
 	gray = hsl("#686A4E"), -- Olive Drab
+	olive = hsl("#686A4E"),
 	soft_pink = hsl("#C77DBB"), -- Soft Pink (added to ensure all colors are included)
 }
 
